@@ -82,17 +82,17 @@
 					</div>
 
                     <div class="wrap-input100 validate-input" data-validate = "Enter old password">
-						<input class="input100" type="text" name="mat_khau" placeholder="Mật khẩu cũ" >
+						<input class="input100" type="password" name="mat_khau" placeholder="Mật khẩu cũ" >
 						<span class="focus-input100" data-placeholder="&#xf18e;"></span>
 					</div>
 
                     <div class="wrap-input100 validate-input" data-validate = "Enter new password">
-						<input class="input100" type="text" name="mat_khau2" placeholder="Mật khẩu mới" >
+						<input class="input100" type="password" name="mat_khau2" placeholder="Mật khẩu mới" >
 						<span class="focus-input100" data-placeholder="&#xf18e;"></span>
 					</div>
 
                     <div class="wrap-input100 validate-input" data-validate = "Enter confirm new password">
-						<input class="input100" type="text" name="mat_khau3" placeholder="Xác nhận mật khẩu mới" >
+						<input class="input100" type="password" name="mat_khau3" placeholder="Xác nhận mật khẩu mới" >
 						<span class="focus-input100" data-placeholder="&#xf18e;"></span>
 					</div>
 
