@@ -77,7 +77,7 @@
 					</div>
 
 					<div class="wrap-input100 validate-input" data-validate="Enter password">
-						<input class="input100" type="text" name="mat_khau" placeholder="mat_khau" value = "<?=$mat_khau?>" readonly>
+						<input class="input100" type="password" name="mat_khau" placeholder="mat_khau" value = "<?=$mat_khau?>" readonly>
 						<span class="focus-input100" data-placeholder="&#xf18e;"></span>
 					</div>
 
