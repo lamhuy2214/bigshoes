@@ -5,6 +5,4 @@ Step2: go to phpMyAdmin, create new database named 'bigshoes' then import bigsho
 Step3: go to browser with localhost/bigshoes/trang-chinh/ and enjoy  <br />
 
 Hope everything runs smoothly! Best wishes. Truong Phong 
-# bigshoes.github.io
-# bigshoes.github.io
-#   b i g s h o e s 
+
